@@ -1,6 +1,6 @@
 <!-- 1. แบนเนอร์หัวข้อแบบพิมพ์ตัวอักษรอัตโนมัติ (Typing SVG) -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5Bphacharahorn%5D+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Hi+there%2C+I'm+%5Bphacharakorn%5D+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </div>
 
 <!-- 2. ปุ่มนับจำนวนผู้เข้าชมและโซเชียลแบบจัดกึ่งกลาง -->
