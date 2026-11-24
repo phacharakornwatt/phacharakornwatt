@@ -1,54 +1,56 @@
-# สวัสดีครับ, ผม นาย พชรกร วํฒนกิจรุ่งโรจน์ 👋
+<!-- 1. แบนเนอร์หัวข้อแบบพิมพ์ตัวอักษรอัตโนมัติ (Typing SVG) -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+%5BYour+Name%5D+%F0%9F%91%8B;Full-Stack+Developer+%26+Tech+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+</div>
 
-**[ตำแหน่งงาน / ความเชี่ยวชาญ เช่น Full-Stack Developer | Data Scientist | Software Engineer]**  
-คำอธิบายสั้นๆ เกี่ยวกับตัวคุณ เช่น *หลงใหลในการสร้างเว็บแอปพลิเคชันที่รวดเร็ว ใช้งานง่าย และชอบเรียนรู้เทคโนโลยีใหม่ๆ อยู่เสมอ*
-
----
-
-### 👨‍💻 เกี่ยวกับผม (About Me)
-- 🔭 ปัจจุบันกำลังทำงาน / พัฒนาโปรเจกต์เกี่ยวกับ **[ชื่อโปรเจกต์ หรือ เทคโนโลยีหลัก]**
-- 🌱 กำลังเรียนรู้เพิ่มเติมเรื่อง **[สิ่งที่กำลังศึกษา เช่น Rust, Cloud Architecture, AI/ML]**
-- 👯 เปิดรับโอกาสในการร่วมงานด้าน **[ประเภทงาน หรือ Open Source]**
-- 💬 สามารถพูดคุยแลกเปลี่ยนกับผมได้เรื่อง **[หัวข้อที่คุณถนัด เช่น Web Dev, System Design, Game Dev]**
-- 📫 ช่องทางติดต่อ: phacharakorn.w@ku.th
+<!-- 2. ปุ่มนับจำนวนผู้เข้าชมและโซเชียลแบบจัดกึ่งกลาง -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=phacharakorn&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
-### 🛠️ ทักษะและเครื่องมือ (Tech Stack)
-
-**Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Frontend & Backend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-**Database & DevOps**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 🧑‍💻 About Me
+- 🔭 **Currently working on:** [ชื่อโปรเจกต์ปัจจุบัน]
+- 🌱 **Currently learning:** [สิ่งที่กำลังศึกษา เช่น AI Agents, Rust, Cloud]
+- ⚡ **Fun fact:** [เรื่องสนุกๆ เกี่ยวกับตัวคุณ เช่น เขียนโค้ดได้ดีที่สุดตอนจิบกาแฟดำ]
 
 ---
 
-### 🚀 โปรเจกต์ที่โดดเด่น (Featured Projects)
-
-1. **[ชื่อโปรเจกต์ที่ 1](ลิงก์ไปยัง Repo)** - คำอธิบายสั้นๆ ว่าโปรเจกต์นี้ทำอะไรได้บ้าง และใช้เทคโนโลยีอะไรในการพัฒนา
-2. **[ชื่อโปรเจกต์ที่ 2](ลิงก์ไปยัง Repo)** - คำอธิบายสั้นๆ เกี่ยวกับจุดเด่นหรือปัญหาที่โปรเจกต์นี้ช่วยแก้ไข
-3. **[ชื่อโปรเจกต์ที่ 3](ลิงก์ไปยัง Repo)** - คำอธิบายสั้นๆ หรือสถานะของโปรเจกต์
-
----
-
-### 📊 สถิติบน GitHub (GitHub Stats)
-*(อย่าลืมเปลี่ยนคำว่า `YOUR_USERNAME` เป็นชื่อ Username GitHub ของคุณ)*
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+### 🛠️ Tech Stack (ไอคอนแบบรวมกลุ่มสวยงาม)
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,nodejs,tailwind,postgres,docker,git&perline=5" />
+  </a>
+</p>
 
 ---
 
-### 🌐 ช่องทางติดตามอื่นๆ (Connect with Me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](ลิงก์ LinkedIn)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](ลิงก์เว็บไซต์ส่วนตัว)
+### 🏆 GitHub Trophies (ถ้วยรางวัลความสำเร็จ)
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Analytics & Activity
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<!-- 3. กราฟแสดงการเคลื่อนไหวการเขียนโค้ด (Activity Graph) -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- 4. กราฟงูกินจุดเขียว (Contribution Snake) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
